@@ -50,3 +50,4 @@ license.xml
 !/mssql-data/.gitkeep
 !/solr-data/.gitkeep
 !/device-detection-data/.gitkeep
+!/traefik/certs/.gitkeep
