@@ -40,9 +40,13 @@ license.xml
 /traefik/certs/*
 /mssql-data/*
 /solr-data/*
+/device-detection-data/*
 /docker/data/cd/*
 /docker/data/cm/*
 /docker/data/devicedetection/*
 /docker/data/mssql/*
 /docker/data/solr/*
 /docker/deploy/website/*
+!/mssql-data/.gitkeep
+!/solr-data/.gitkeep
+!/device-detection-data/.gitkeep
