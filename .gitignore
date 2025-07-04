@@ -34,3 +34,15 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#sitecore
+license.xml
+/traefik/certs/*
+/mssql-data/*
+/solr-data/*
+/docker/data/cd/*
+/docker/data/cm/*
+/docker/data/devicedetection/*
+/docker/data/mssql/*
+/docker/data/solr/*
+/docker/deploy/website/*
